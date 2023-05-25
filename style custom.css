@@ -12,19 +12,21 @@ input{
     margin-bottom: 1rem;
 }
 #logo{
-    width: 200px;
-    border-radius: 80px;
-    padding: 10px;
-}
-header{
-    background-color: #456B42;
+    border:none;
     
 }
+header{
+    background-color:#2B0916;
+    
+}
+#carrocel{
+    background-color:black;
+}
 #Sobre{
-    background-color: #FFE600;
+    background-color:black;
 }
 #produtos{
-    background-color: #456B42;
+    background-color:black
 }
 #img-sobre{
     border-radius: 10px;
@@ -39,6 +41,9 @@ p,li{
     font-size: 18px;
     
 }
+#p{
+    color: white;
+}
 body{
     font-family: sans-serif;
 }
@@ -48,11 +53,17 @@ body{
 .nav-link:hover{
     color: blanchedalmond;
 }
-#header{
-    padding-top: 0;
-    padding-bottom: 0;
-}
+
 #SO {
     margin-bottom: 10px;
-    
+    background-color: #2B0916;
+}
+h1, h2{
+    color: white;
+}
+#cadastro{
+    background-color:black;
+}
+label{
+    color:white;
 }
